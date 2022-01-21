@@ -1,2 +1,2 @@
-# simple-card-react
+# birthdates-palindrome
 Created with CodeSandbox
